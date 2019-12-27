@@ -103,10 +103,10 @@ query Post ($id: ID!) {
       margin-top: 0;
     }
 
-    p:first-of-type {
+    /*p:first-of-type {
       font-size: 1.2em;
       color: var(--title-color);
-    }
+    }*/
 
     img {
       width: calc(100% + var(--space) * 2);

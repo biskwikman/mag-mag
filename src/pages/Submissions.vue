@@ -8,8 +8,8 @@
 
     <div class="submissions content-box">
       <div class="submissions__content">
-        <p>Want to write for MAG MAG? Send us an pitch for an article at XXXXXXX.</p> 
-        <p>We publish non-fiction about leftist politics and deep dives into under-appreciated cultural artifacts. We also accept submissions of fully written articles.</p>
+        <p>Want to write for MAG MAG? Send us a pitch for an article at XXXXXXX.</p> 
+        <p>We publish non-fiction from around the world about politics and society and deep dives into under-investigated bits of culture. We also accept submissions of fully written articles. We are explicitly leftist, and encourage communists, anarchists, and socialists of all (most) stripes to submit articles.</p>
       </div>
     </div>
   </Layout>
