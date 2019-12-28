@@ -1,9 +1,10 @@
 ---
 title: The Myth of "The World's Most Successful Multicultural Country"
 date: 2019-12-10
+author: Dan Henri
 published: true
 tags: ['Politics','Immigration', 'Australia']
-cover_image: 
+cover_image: ./images/1_20191227_myth-multicultural-country.jpg
 canonical_url: false
 description: "Australian political and media elites like to talk up the country's multicultural values, but a closer look reveals this to serve as a soothing distraction for liberal-minded citizens from the reality of the immigration system"
 ---
@@ -52,3 +53,5 @@ It should be obvious that when the political elite say that a country in which n
 These conditions for immigrants, especially those in detention, are not new. And in the past, Australians have shown radical solidarity with immigrants in response. In 2002, activists gathered at the now decommissioned Woomera immigration prison—a camp in a remote desert area north of Adelaide known for its suicide attempts and hunger strikes—and using the weight of their own bodies brought down a razorwire fence around the compound, while the prisoners used a metal pole to pry free a post in the compound wall. 35 people were freed that day; an incredible feat.
 
 It is that radical solidarity that is needed today to break through the system created by the state, business, and the media. A system that deports families because their children have disabilities, that keeps public school financially out of reach for many immigrants, that allows undocumented workers to make little to nothing, and that lets the teeth of a two year old rot before cutting them out. Both of the two major parties have both long presided over these abuses and have done next to nothing to even mitigate the situation. Vapid appeals to liberalism must be rejected and answered with action.
+
+*This story was originally published in [Overland Journal](https://overland.org.au/2019/11/the-myth-of-the-most-successful-multicultural-country-in-the-world/)*

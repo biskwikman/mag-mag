@@ -19,6 +19,7 @@ query {
         id
         title
         date (format: "D. MMMM YYYY")
+        author
         timeToRead
         description
         cover_image (width: 770, height: 380, blur: 10)

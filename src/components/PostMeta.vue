@@ -1,5 +1,6 @@
 <template>
    <div class="post-meta">
+      By {{ post.author }}. <br/>
       Posted {{ post.date }}.
       <template v-if="post.timeToRead">
         <strong>{{ post.timeToRead }} min read.</strong>
