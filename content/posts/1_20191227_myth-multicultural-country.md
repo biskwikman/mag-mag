@@ -1,12 +1,12 @@
 ---
 title: The Myth of "The World's Most Successful Multicultural Country"
-date: 2019-12-10
+date: 2019-12-25
 author: Dan Henri
 published: true
 tags: ['Politics','Immigration', 'Australia']
 cover_image: ./images/1_20191227_myth-multicultural-country.jpg
 canonical_url: false
-description: "Australian political and media elites like to talk up the country's multicultural values, but a closer look reveals this to serve as a soothing distraction for liberal-minded citizens from the reality of the immigration system"
+description: "Australian political and media elites like to talk up the country's multicultural values, but a closer look reveals this to serve as a soothing distraction for liberal-minded citizens from the reality of the immigration system."
 ---
 
 In recent years, the Australian political establishment has taken to calling Australia “The most successful multicultural country in the world”. The two most recent prime ministers have employed the phrase often, as have [think-tanks](https://mckellinstitute.org.au/research/articles/why-australia-is-the-worlds-most-successful-multicultural-society/), it is even the first line in the Australian Government’s [“multicultural statement”](https://www.homeaffairs.gov.au/about-us/our-portfolios/multicultural-affairs/about-multicultural-affairs/our-statement). At face value, it is hard to argue that Australia is not, if not the most, at least a quite successful multicultural country. The statistics, which the Australian political establishment often cites, can seem quite impressive: In 2018, [29% of the population](https://www.abs.gov.au/ausstats/abs@.nsf/Latestproducts/3412.0Main%20Features22017-18?opendocument&tabname=Summary&prodno=3412.0&issue=2017-18&num=&view=) of Australia were immigrants, and roughly half of the population was either born somewhere else, or have a least one parent who was. This seems to be indicative of highly welcoming country.

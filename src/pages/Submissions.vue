@@ -8,12 +8,14 @@
 
     <div class="submissions content-box">
       <div class="submissions__content">
-        <p>Want to write for MAG MAG? Send us a pitch for an article at XXXXXXX.</p> 
+        <p>Want to write for MAG MAG? Send us a pitch for an article at magmagcontact[at]gmail[dot]com.</p> 
         <p>We want to publish non-fiction from around the world about politics and 
           society and deep dives into under-investigated bits of culture. 
           We also accept submissions of fully written articles. 
           We are explicitly leftist, and encourage communists, anarchists, 
-          and socialists of all (non-authoritarian) stripes to submit articles.</p>
+          and socialists of all (non-authoritarian) stripes to submit articles.
+          All writers will be paid in proportion to the amount of income from our patrons. 
+          </p>
       </div>
     </div>
   </Layout>
