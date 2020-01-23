@@ -8,7 +8,7 @@
 
     <div class="subscribe content-box">
       <div class="subscribe__content">
-        <p>Subscribe to our Patreon or LiberaPay to help us keep producing new articles!</p>
+        <p>Contribute to our <a href="https://www.patreon.com/magmag">Patreon</a> help us produce new articles! All funds go to future writers!</p>
       </div>
     </div>
   </Layout>
