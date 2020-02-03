@@ -8,7 +8,7 @@
 
     <div class="subscribe content-box">
       <div class="subscribe__content">
-        <p>Contribute to our <a href="https://www.patreon.com/magmag">Patreon</a> help us produce new articles! All funds go to future writers!</p>
+        <p>Contribute to my <a href="https://www.patreon.com/magmag">Patreon</a> to help me produce new articles and grow MAG MAG! All funds go to paying writers and website maintenance.</p>
       </div>
     </div>
   </Layout>

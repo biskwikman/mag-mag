@@ -8,7 +8,7 @@
 
     <div class="submissions content-box">
       <div class="submissions__content">
-        <p>Want to write for MAG MAG? Send us a pitch for an article at magmagcontact[at]gmail[dot]com.</p> 
+        <p>Want to write for MAG MAG? Send us a pitch for an article at djosephhenri[at]gmail[dot]com.</p> 
         <p>We want to publish non-fiction from around the world about politics and 
           society and deep dives into under-investigated bits of culture. 
           We also accept submissions of fully written articles. 
