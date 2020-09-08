@@ -6,7 +6,7 @@
 
 module.exports = {
   siteName: 'MAG MAG',
-  siteDescription: '"The shame of the online left"',
+  siteDescription: '"A high quality magazine"',
 
   templates: {
     Post: '/:title',
