@@ -10,9 +10,7 @@
 		</p>
 
 		<p class="author__links">
-			<g-link to="/subscribe"><t>Support MAGMAG!</t></g-link>
-			|
-			<g-link to="/submissions"><t>Submissions</t></g-link>
+			<g-link to="/about"><t>About</t></g-link>
 		</p>
 
 	</div>
